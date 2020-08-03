@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:itunes='http://www.itunes.com/DTDs/Podcast-1.0.dtd' version='2.0'>
+  <channel>
+    <title>ABC once a day</title>
+    <link></link>
+    <itunes:author>ABC Street</itunes:author>
+  
+    <item>
+      <title>abc</title>
+      <itunes:author>Text to speech</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <description>abc by Text to speech. Recorded on Sun, 01 Dec 2019 22:09:18 +0100</description>
+      <enclosure url="http://localhost/Sample-Podcasts/a2z/alphabet-abc.mp3" length="9173" type="audio/mpeg"/>
+      <guid>http://localhost/Sample-Podcasts/a2z/alphabet-abc.mp3</guid>
+      <pubDate>Sun, 09 Aug 2020 01:02:03 +0200</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>def</title>
+      <itunes:author>Text to speech</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <description>def by Text to speech. Recorded on Sun, 01 Dec 2019 22:09:18 +0100</description>
+      <enclosure url="http://localhost/Sample-Podcasts/a2z/alphabet-def.mp3" length="9382" type="audio/mpeg"/>
+      <guid>http://localhost/Sample-Podcasts/a2z/alphabet-def.mp3</guid>
+      <pubDate>Sat, 08 Aug 2020 01:02:03 +0200</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>ghijk</title>
+      <itunes:author>Text to speech</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <description>ghijk by Text to speech. Recorded on Sun, 01 Dec 2019 22:09:18 +0100</description>
+      <enclosure url="http://localhost/Sample-Podcasts/a2z/alphabet-g-k.mp3" length="14606" type="audio/mpeg"/>
+      <guid>http://localhost/Sample-Podcasts/a2z/alphabet-g-k.mp3</guid>
+      <pubDate>Fri, 07 Aug 2020 01:02:03 +0200</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>lmnop</title>
+      <itunes:author>Text to speech</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <description>lmnop by Text to speech. Recorded on Sun, 01 Dec 2019 22:09:18 +0100</description>
+      <enclosure url="http://localhost/Sample-Podcasts/a2z/alphabet-l-p.mp3" length="10636" type="audio/mpeg"/>
+      <guid>http://localhost/Sample-Podcasts/a2z/alphabet-l-p.mp3</guid>
+      <pubDate>Thu, 06 Aug 2020 01:02:03 +0200</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>qrs</title>
+      <itunes:author>Text to speech</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <description>qrs by Text to speech. Recorded on Sun, 01 Dec 2019 22:09:18 +0100</description>
+      <enclosure url="http://localhost/Sample-Podcasts/a2z/alphabet-q-s.mp3" length="9173" type="audio/mpeg"/>
+      <guid>http://localhost/Sample-Podcasts/a2z/alphabet-q-s.mp3</guid>
+      <pubDate>Wed, 05 Aug 2020 01:02:03 +0200</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>tuvw</title>
+      <itunes:author>Text to speech</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <description>tuvw by Text to speech. Recorded on Sun, 01 Dec 2019 22:09:18 +0100</description>
+      <enclosure url="http://localhost/Sample-Podcasts/a2z/alphabet-t-w.mp3" length="11054" type="audio/mpeg"/>
+      <guid>http://localhost/Sample-Podcasts/a2z/alphabet-t-w.mp3</guid>
+      <pubDate>Tue, 04 Aug 2020 01:02:03 +0200</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>xyz</title>
+      <itunes:author>Text to speech</itunes:author>
+      <itunes:subtitle></itunes:subtitle>
+      <description>xyz by Text to speech. Recorded on Sun, 01 Dec 2019 22:09:18 +0100</description>
+      <enclosure url="http://localhost/Sample-Podcasts/a2z/alphabet-x-z.mp3" length="12098" type="audio/mpeg"/>
+      <guid>http://localhost/Sample-Podcasts/a2z/alphabet-x-z.mp3</guid>
+      <pubDate>Mon, 03 Aug 2020 01:02:03 +0200</pubDate>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss>
