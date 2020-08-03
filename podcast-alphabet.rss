@@ -2,7 +2,7 @@
 <rss xmlns:itunes='http://www.itunes.com/DTDs/Podcast-1.0.dtd' version='2.0'>
   <channel>
     <title>ABC once a day</title>
-    <link></link>
+    <link>http://localhost/Sample-Podcasts/podcast-alphabet.rss</link>
     <itunes:author>ABC Street</itunes:author>
   
     <item>

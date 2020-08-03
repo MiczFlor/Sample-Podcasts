@@ -2,7 +2,7 @@
 <rss xmlns:itunes='http://www.itunes.com/DTDs/Podcast-1.0.dtd' version='2.0'>
   <channel>
     <title>0 to 10 every hour</title>
-    <link></link>
+    <link>http://localhost/Sample-Podcasts/podcast-counting.rss</link>
     <itunes:author>Graf Zahl</itunes:author>
     <item>
       <title>number00.mp3</title>
