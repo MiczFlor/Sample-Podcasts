@@ -4,6 +4,8 @@
     <title>0 to 10 every hour</title>
     <link>http://localhost/Sample-Podcasts/podcast-counting.rss</link>
     <itunes:author>Graf Zahl</itunes:author>
+    <lastBuildDate>Sun, 09 Aug 2020 01:02:03 +0200</lastBuildDate>
+    <itunes:image href="http://localhost/Sample-Podcasts/zero2ten-800.jpg"/>
     <item>
       <title>number00.mp3</title>
       <itunes:author>Graf Zahl</itunes:author>
